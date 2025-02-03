@@ -18,9 +18,9 @@ I'm a passionate GIS enthusiast with a keen interest in building efficient and s
 The goal is to popularize open-source GIS in Georgia, primarily by providing resources in the Georgian language. By sharing this repository on social networks, I aim to foster a local community passionate about geospatial technologies.
 **Technologies Used:** Python, gh-pages
 
-### Project 2: [Another Cool Project](https://github.com/ezdanapak/another-cool-project)
-**Description:** A brief description of what this project does and its main features.
-**Technologies Used:** JavaScript, React, Node.js
+### Project 2: [transliterator](https://github.com/ezdanapak/transliterator)
+**Description:** QGIS Plugin recognizes Georgian alphabet and transliterates it to latin in new field, the given field is ready for Georgian fonts.
+**Technologies Used:** QGIS, Python, PyQGIS, Qt for Python
 
 ### Project 3: [Yet Another Project](https://github.com/ezdanapak/yet-another-project)
 **Description:** A brief description of what this project does and its main features.

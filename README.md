@@ -36,6 +36,8 @@ The goal is to popularize open-source GIS in Georgia, primarily by providing res
 - [X](https://x.com/ezdanapak)
 - [Email](mailto:g.kapanadze1908@gmail.com)
 
+  Check out my [Youtube channel](https://www.youtube.com/@GISGEORGIA)
+
 Feel free to reach out if you want to collaborate on a project, have any questions, or just want to connect!
 
 <!--

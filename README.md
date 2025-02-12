@@ -5,9 +5,9 @@ I'm a passionate GIS enthusiast with a keen interest in building efficient and s
 ## 🛠️ Technologies & Tools
 
 - **Software:** QGIS, GRASS GIS, SAGA, GeoServer, GeoNode, ArcGIS, SuperMap.
-- **Languages:** Python, JavaScript.
-- **Web Development:** HTML, CSS.
-- **Database:** MySQL, PostgreSQL.
+- **Languages:** Python, SQL.
+- **Web Development:** HTML, CSS, JavaScript.
+- **Database:** PostgreSQL, Geodatabases.
 - **Tools:** Git, Docker.
 
 

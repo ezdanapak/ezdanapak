@@ -1,4 +1,4 @@
-# Hi there, I'm Ezdanapak! 👋
+# Hi there, I'm Giorgi Kapanadze! 👋
 
 I'm a passionate GIS enthusiast with a keen interest in building efficient and scalable solutions. I love exploring new technologies and constantly improving my skills.
 

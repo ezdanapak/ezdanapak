@@ -1,6 +1,6 @@
 # Hi there, I'm Giorgi Kapanadze! 👋
 
-[![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/ezdamapak?tab=followers)
+[![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/ezdanapak?tab=followers)
 [![Twitter Badge](https://img.shields.io/twitter/follow/giswqs?style=social)](https://x.com/ezdanapak)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/@GISGEORGIA)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/@kapanadze)

@@ -1,7 +1,7 @@
 # Hi there, I'm Giorgi Kapanadze! 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/ezdanapak)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ezdanapak)(https://x.com/ezdanapak) 
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ezdanapak)](https://x.com/ezdanapak) 
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/@GISGEORGIA)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/@kapanadze)
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://ko-fi.com/ezdanapak)

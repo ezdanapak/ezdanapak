@@ -1,6 +1,17 @@
 # Hi there, I'm Giorgi Kapanadze! 👋
 
+[![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/ezdamapak?tab=followers)
+[![Twitter Badge](https://img.shields.io/twitter/follow/giswqs?style=social)](https://x.com/ezdanapak)
+[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/@GISGEORGIA)
+[![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/@kapanadze)
+[![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://ko-fi.com/ezdanapak)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ezdanapak.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
+
+---
+
 I'm a passionate GIS enthusiast with a keen interest in building efficient and scalable solutions. I love exploring new technologies and constantly improving my skills.
+
+---
 
 ## 🛠️ Technologies & Tools
 
@@ -9,6 +20,8 @@ I'm a passionate GIS enthusiast with a keen interest in building efficient and s
 - **Web Development:** HTML, CSS, JavaScript.
 - **Database:** PostgreSQL, Geodatabases.
 - **Tools:** Git, Docker.
+
+---
 
 
 ## 📚 Projects
@@ -36,9 +49,11 @@ The goal is to popularize open-source GIS in Georgia, primarily by providing res
 - [X](https://x.com/ezdanapak)
 - [Email](mailto:g.kapanadze1908@gmail.com)
 
-  Check out my [Youtube channel](https://www.youtube.com/@GISGEORGIA)
+---
 
 Feel free to reach out if you want to collaborate on a project, have any questions, or just want to connect!
+
+---
 
 <!--
 **ezdanapak/ezdanapak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

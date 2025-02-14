@@ -21,6 +21,7 @@ I'm a passionate GIS enthusiast with a keen interest in building efficient and s
 - **Database:** PostgreSQL, Geodatabases.
 - **Tools:** Git, Docker.
 
+
 ---
 
 

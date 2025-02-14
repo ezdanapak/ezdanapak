@@ -1,11 +1,11 @@
 # Hi there, I'm Giorgi Kapanadze! 👋
 
-[![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/ezdanapak?tab=followers)
-[![Twitter Badge](https://img.shields.io/twitter/follow/giswqs?style=social)](https://x.com/ezdanapak)
+![GitHub followers](https://img.shields.io/github/followers/ezdanapak)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ezdanapak)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/@GISGEORGIA)
 [![YouTube Badge](https://img.shields.io/badge/My-YouTube-red)](https://www.youtube.com/@kapanadze)
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://ko-fi.com/ezdanapak)
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ezdanapak.visitor-badge&left_color=red&right_color=green&left_text=HelloVisitors)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ezdanapak.visitor-badge&left_color=red&right_color=green&left_text=Visitors)
 
 ---
 

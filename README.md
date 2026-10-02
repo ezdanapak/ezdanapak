@@ -35,6 +35,10 @@ I use these, and I'm still learning many of them:
 - **Tools:** Git, Podman
 - **AI-assisted development:** I do vibe coding with AI assistants, which helps me build things faster than I could alone.
 
+## 📈 GitHub Stats
+
+![Ezdanapak's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezdanapak&show_icons=true&theme=radical)
+
 ## 📫 Let's connect
 
 Feel free to reach out if you want to collaborate on a project, have a question, or just want to say hi.
